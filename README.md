@@ -110,7 +110,7 @@ Let's modify `./controllers/index.js` to take this parameter into account, and c
 
 By specifying a `layout` parameter in the `model`, we tell the renderer to use a particular layout (**note**: It is not necessary to include a file extension). In this case it will default to `/layouts/1994.dust`.
 
-Addendum: [<img src='http://upload.wikimedia.org/wikipedia/commons/thumb/2/25/External.svg/600px-External.svg.png' width='12px' height='12px'/>View commit](https://github.com/lmarkus/Kraken_Example_Layouts/commit/179cef8db34eb00d978d3a5c42854890cfb10dab)
+[<img src='http://upload.wikimedia.org/wikipedia/commons/thumb/2/25/External.svg/600px-External.svg.png' width='12px' height='12px'/>View commit](https://github.com/lmarkus/Kraken_Example_Layouts/commit/179cef8db34eb00d978d3a5c42854890cfb10dab)
 
 
 ### Run the application!
