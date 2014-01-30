@@ -54,7 +54,7 @@ We're going to update `/public/templates/index.dust` with some simple content. J
 </div>
 ```
 
-[<img src='http://upload.wikimedia.org/wikipedia/commons/thumb/2/25/External.svg/600px-External.svg.png' width='12px' height='12px'/>View commit](https://github.com/lmarkus/Kraken_Example_Layouts/commit/93f27dd40ee413addce0474abcd0d01624ba8085)
+[<img src='http://upload.wikimedia.org/wikipedia/commons/thumb/2/25/External.svg/600px-External.svg.png' width='12px' height='12px'/>View commit](https://github.com/lmarkus/Kraken_Example_Layouts/commit/75e36d2adc13e0b8105c98e30dd8f24bcdcc1284)
 [<img src='http://upload.wikimedia.org/wikipedia/commons/thumb/2/25/External.svg/600px-External.svg.png' width='12px' height='12px'/>Addendum](https://github.com/lmarkus/Kraken_Example_Layouts/commit/179cef8db34eb00d978d3a5c42854890cfb10dab)
 
 
