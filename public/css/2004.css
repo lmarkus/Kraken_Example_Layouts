@@ -1,0 +1,26 @@
+html, body {
+    background-color: #FFFFCC;
+    margin: 0;
+    padding: 0;
+}
+#time {
+    position: absolute;
+}
+#title {
+    background-color: #FFFF4F;
+    text-align: center;
+}
+#title h1 {
+    margin-top: 0;
+}
+#title p {
+    margin-bottom: 0;
+}
+#examples {
+    background-color: #B1A632;
+    float: left;
+    width: 300px;
+}
+li {
+    list-style: none outside none;
+}

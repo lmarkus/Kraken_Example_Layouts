@@ -1,0 +1,49 @@
+body {
+    width: 900px;
+    margin: 0 auto;
+}
+
+table {
+    width: 300px;
+    margin: 0 auto;
+}
+table caption {
+    display:none;
+}
+
+table td {
+    border-right: solid 1px #DDD;
+}
+
+table td:last-of-type{
+    border: none
+}
+
+table input {
+    border: none;
+    font-size: 1.55em;
+    color:#444;
+    background-color: #FFF;
+
+
+
+
+}
+
+#years cation{
+
+}
+#title {
+    border-radius: 1em;
+    border:solid 1px #ccc;
+    padding: 30px;
+    background-color: #F4F4F4;
+    margin: 30px 0;
+}
+
+#title h1{
+    font-size: 3.5em;
+}
+#title p{
+    font-size: 1.5em;
+}

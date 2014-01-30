@@ -1,0 +1,13 @@
+body {
+    text-align: center;
+    color: #FFF;
+    background: url('../star-pibl.gif');
+}
+
+h1, h2 {
+    font-family: 'Papyrus';
+}
+
+ul li {
+    list-style: none;
+}

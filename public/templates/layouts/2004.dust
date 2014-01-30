@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8"/>
+    <title>2004 Kraken</title>
+    <link rel="stylesheet" href="css/2004.css"/>
+</head>
+<body>
+<div id="wrapper">
+    {>"{_main}"/}
+    <img src="flash.jpg">
+
+</div>
+
+
+</body>
+</html>

@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8"/>
+    <title>1999 Kraken</title>
+    <link rel="stylesheet" href="css/1999.css"/>
+</head>
+<body>
+<div id="wrapper">
+    <img src="underConstruction.gif">
+    <audio autoplay="autoplay" controls="controls">
+        <source src="http://tedmuller.us/Piano/SugarPlumFairy/SugarPlumFairy_preview.mp3" />
+    </audio>
+    <br>
+    <small>Music from <a href="http://tedmuller.us/Piano/SugarPlumFairy/">http://tedmuller.us/Piano/SugarPlumFairy/</a> </small>
+    {>"{_main}"/}
+</div>
+</body>
+</html>
