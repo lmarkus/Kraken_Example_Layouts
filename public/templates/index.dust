@@ -1,5 +1,46 @@
-{>"layouts/master" /}
+<form method="post">
+    <table id="time">
+        <caption>Go to...</caption>
+        <tr>
+            <td><input type="submit" name="year" value="1994"></td>
+            <td><input type="submit" name="year" value="1999"></td>
+            <td><input type="submit" name="year" value="2004"></td>
+            <td><input type="submit" name="year" value="2014"></td>
+        </tr>
+    </table>
+    <input type="hidden" name="_csrf" value="{_csrf}">
+</form>
+<div id="title">
+    <h1>Kraken welcomes you to {year}</h1>
+    <p>You can switch years above to see how design has evolved over the years.</p>
+</div>
 
-{<body}
-    <h1>{@pre type="content" key="greeting"/}</h1>
-{/body}
+<div id="examples">
+    <h2>Here's a list of Kraken examples</h2>
+    <ul>
+        <li>
+            <a href="https://github.com/lmarkus/Kraken_Example_Shopping_Cart" target="_blank">Kraken Shopping Cart</a>
+            <p>An end-to-end example showing how to build a shopping cart that integrates with PayPal</p>
+        </li>
+        <li>
+            <a href="https://github.com/lmarkus/Kraken_Example_Passport" target="_blank">Kraken Passport Integration</a>
+            <p>Authenticate and securely store user credentials using Passport, Mongo and bcrypt</p>
+        </li>
+        <li>
+            <a href="https://github.com/lensam69/Kraken_Example_Localization" target="_blank">Localization and Internationalization</a>
+            <p>Greet users in different languages (Including Klingon!). Shows support for localized content bundles.</p>
+        </li>
+        <li>
+            <a href="https://github.com/lmarkus/Kraken_Example_Date_Format_Helper" target="_blank">Custom Dustjs Helper</a>
+            <p>Format dates painlessly in your dust templates by writing a custom helper. Includes localization support.</p>
+        </li>
+        <li>
+            <a href="https://github.com/lmarkus/Kraken_Example_Configuration" target="_blank">Custom configuration</a>
+            <p>Shows how to use kraken's configuration files, and how to retrieve the values stored there.</p>
+        </li>
+        <li>
+            <a href="https://github.com/lensam69/Kraken_Example_Custom_Middleware" target="_blank">Deploying middleware</a>
+            <p>Create a custom page counter. Explains how and when middleware is deployed in the application lifecycle.</p>
+        </li>
+    </ul>
+</div>
